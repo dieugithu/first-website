@@ -1,0 +1,36 @@
+.b-first {
+    float: right;
+    margin-bottom: 10px;
+    margin-top: 12px;
+    border: none;
+    border-radius: 15px;
+    background-color: cyan;
+    height: 20px;
+    width: 60px;
+}
+img {
+    height: 20px;
+    width: 30px;
+    float: center;
+    border-radius: 40px;
+    border: solid;
+    border-color: aqua;
+}
+.formbox {
+    float: center;
+    margin: 20px;
+    margin-left: 200px;
+    align-items: center;
+        border: solid;
+    width: 300px;
+    height: 200px;
+    border-bottom: none;
+    border-top: none;
+    border-radius: 5px;
+    border-color: blue;
+    border-top-style: patial;
+    border-top: 15px;
+    }
+.c-img{
+    align-items: center;
+}
